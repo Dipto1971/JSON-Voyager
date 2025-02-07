@@ -1,0 +1,1736 @@
+[
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "DACY",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "MRDI",
+    "TimeSlotName": "MR 03:10 PM - 04:40 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "NHN",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "NHN",
+    "TimeSlotName": "M 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "NHN",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "RHM",
+    "TimeSlotName": "TR 08:30 AM - 10:00 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "RHM",
+    "TimeSlotName": "S 11:50 AM - 01:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "RHM",
+    "TimeSlotName": "T 11:50 AM - 01:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "MSQI",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "TBA2",
+    "TimeSlotName": "SW 04:50 PM - 06:20 PM",
+    "SectionName": 9
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "TR 04:50 PM - 06:20 PM",
+    "SectionName": 10
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "SW 10:10 AM - 11:40 AM",
+    "SectionName": 11
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "SW 01:30 PM - 03:00 PM",
+    "SectionName": 12
+  },
+  {
+    "CourseCode": "ACT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 04:50 PM - 06:20 PM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "MRDI",
+    "TimeSlotName": "TR 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "NHN",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "SW 04:50 PM - 06:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "MSQI",
+    "TimeSlotName": "R 08:30 AM - 10:00 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "MSQI",
+    "TimeSlotName": "S 08:30 AM - 10:00 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "ACT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "SR 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "ACT311",
+    "ShortName": "NCS",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT311",
+    "ShortName": "RHM",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ACT410",
+    "ShortName": "DACY",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT411",
+    "ShortName": "DACY",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT411",
+    "ShortName": "MSQI",
+    "TimeSlotName": "MR 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ACT421",
+    "ShortName": "TBA",
+    "TimeSlotName": "MR 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT421",
+    "ShortName": "TBA1",
+    "TimeSlotName": "MR 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ACT427",
+    "ShortName": "NHN",
+    "TimeSlotName": "SW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT430",
+    "ShortName": "MSQI",
+    "TimeSlotName": "TR 03:10 PM - 04:40 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ACT441",
+    "ShortName": "NCS",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ACT441",
+    "ShortName": "NCS",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 03:10 PM - 04:40 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 04:50 PM - 06:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 08:30 AM - 10:00 AM",
+    "SectionName": 9
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 10
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 11
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 12
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 14
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 04:50 PM - 06:20 PM",
+    "SectionName": 20
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 04:50 PM - 06:20 PM",
+    "SectionName": 20
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 10:10 AM - 11:40 AM",
+    "SectionName": 21
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 10:10 AM - 11:40 AM",
+    "SectionName": 21
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MR 04:50 PM - 06:20 PM",
+    "SectionName": 23
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 24
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "SW 08:30 AM - 10:00 AM",
+    "SectionName": 26
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 04:50 PM - 06:20 PM",
+    "SectionName": 27
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 04:50 PM - 06:20 PM",
+    "SectionName": 27
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "M 08:30 AM - 10:00 AM",
+    "SectionName": 28
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 08:30 AM - 10:00 AM",
+    "SectionName": 28
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 10:10 AM - 11:40 AM",
+    "SectionName": 29
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 10:10 AM - 11:40 AM",
+    "SectionName": 29
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 01:30 PM - 03:00 PM",
+    "SectionName": 30
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 01:30 PM - 03:00 PM",
+    "SectionName": 30
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 31
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 32
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 32
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 33
+  },
+  {
+    "CourseCode": "BUS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 35
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "KH",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "KB",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "KB",
+    "TimeSlotName": "ST 03:10 PM - 04:40 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "FZK",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "ASIFSAMI",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "TBA3",
+    "TimeSlotName": "TR 04:50 PM - 06:20 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 08:30 AM - 10:00 AM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "BUS231",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 08:30 AM - 10:00 AM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "MHSL",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "MHSL",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TNR",
+    "TimeSlotName": "MR 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 04:50 PM - 06:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 04:50 PM - 06:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "BUS361",
+    "ShortName": "TBA",
+    "TimeSlotName": "MR 03:10 PM - 04:40 PM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "BUS498",
+    "ShortName": "TBA",
+    "TimeSlotName": "A 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "BUS499",
+    "ShortName": "TBA",
+    "TimeSlotName": "A 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "KH",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "KH",
+    "TimeSlotName": "MR 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "KB",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "KB",
+    "TimeSlotName": "W 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "KB",
+    "TimeSlotName": "M 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "MSHS",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "M 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 9
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "MFM",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 10
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "USN",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 11
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "ZZH",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 12
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 08:30 AM - 10:00 AM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 08:30 AM - 10:00 AM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 14
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "M 03:10 PM - 04:40 PM",
+    "SectionName": 14
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 04:50 PM - 06:20 PM",
+    "SectionName": 15
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 04:50 PM - 06:20 PM",
+    "SectionName": 15
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 08:30 AM - 10:00 AM",
+    "SectionName": 16
+  },
+  {
+    "CourseCode": "ESR7101",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 08:30 AM - 10:00 AM",
+    "SectionName": 16
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "DSBA",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "DSBA",
+    "TimeSlotName": "S 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "DSBA",
+    "TimeSlotName": "T 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "MMUF",
+    "TimeSlotName": "R 08:30 AM - 10:00 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "MMUF",
+    "TimeSlotName": "T 08:30 AM - 10:00 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "MMUF",
+    "TimeSlotName": "SW 10:10 AM - 11:40 AM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "RJ",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "RJ",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "RJ",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "MFM",
+    "TimeSlotName": "SW 11:50 AM - 01:20 PM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "MFM",
+    "TimeSlotName": "TR 04:50 PM - 06:20 PM",
+    "SectionName": 9
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "ZZH",
+    "TimeSlotName": "SW 11:50 AM - 01:20 PM",
+    "SectionName": 10
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "ZZH",
+    "TimeSlotName": "ST 04:50 PM - 06:20 PM",
+    "SectionName": 11
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "TBA",
+    "TimeSlotName": "M 03:10 PM - 04:40 PM",
+    "SectionName": 12
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 03:10 PM - 04:40 PM",
+    "SectionName": 12
+  },
+  {
+    "CourseCode": "FIN101",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "LVD",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "MMUF",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "MMUF",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "RJ",
+    "TimeSlotName": "TR 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "MFM",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "MFM",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "ZZH",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "ZZH",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 03:10 PM - 04:40 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "FIN201",
+    "ShortName": "TBA",
+    "TimeSlotName": "SR 04:50 PM - 06:20 PM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "FIN335",
+    "ShortName": "MNS",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN335",
+    "ShortName": "MNS",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN335",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 08:30 AM - 10:00 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN335",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 08:30 AM - 10:00 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN350",
+    "ShortName": "LVD",
+    "TimeSlotName": "T 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN350",
+    "ShortName": "LVD",
+    "TimeSlotName": "S 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN380",
+    "ShortName": "ARIFUL",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN408",
+    "ShortName": "QSS",
+    "TimeSlotName": "TR 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN410",
+    "ShortName": "QSS",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN425",
+    "ShortName": "LVD",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN425",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN430",
+    "ShortName": "LVD",
+    "TimeSlotName": "S 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN430",
+    "ShortName": "LVD",
+    "TimeSlotName": "T 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN435",
+    "ShortName": "TAC",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN435",
+    "ShortName": "DSBA",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN435",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 10:10 AM - 11:40 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN435",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 10:10 AM - 11:40 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "FIN465",
+    "ShortName": "TAC",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "FIN465",
+    "ShortName": "TBA",
+    "TimeSlotName": "M 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "FIN465",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "RUA",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "MARS",
+    "TimeSlotName": "S 04:50 PM - 06:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "MARS",
+    "TimeSlotName": "W 04:50 PM - 06:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "OF",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "TPE",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "ADAS",
+    "TimeSlotName": "TR 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "HRM301",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "HRM411",
+    "ShortName": "RUA",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM411",
+    "ShortName": "TPE",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "HRM412",
+    "ShortName": "LZ",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM412",
+    "ShortName": "TPE",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "HRM413",
+    "ShortName": "RUA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM413",
+    "ShortName": "MARS",
+    "TimeSlotName": "ST 03:10 PM - 04:40 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "HRM415",
+    "ShortName": "LZ",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM415",
+    "ShortName": "TBA",
+    "TimeSlotName": "SW 04:50 PM - 06:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "HRM416",
+    "ShortName": "SVA",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM418",
+    "ShortName": "LZ",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM419",
+    "ShortName": "MARS",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM421",
+    "ShortName": "SVA",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "HRM424",
+    "ShortName": "ADAS",
+    "TimeSlotName": "MR 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ITB301",
+    "ShortName": "JU",
+    "TimeSlotName": "TR 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "ITB301",
+    "ShortName": "MSHS",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "ITB301",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "ITB301",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ITB301",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "ITB301",
+    "ShortName": "TBA",
+    "TimeSlotName": "TR 04:50 PM - 06:20 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "MSHS",
+    "TimeSlotName": "ST 04:50 PM - 06:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "MSHS",
+    "TimeSlotName": "TR 03:10 PM - 04:40 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "ADAS",
+    "TimeSlotName": "SW 03:10 PM - 04:40 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "USN",
+    "TimeSlotName": "SW 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "USN",
+    "TimeSlotName": "ST 04:50 PM - 06:20 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 01:30 PM - 03:00 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 01:30 PM - 03:00 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 04:50 PM - 06:20 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MGT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 04:50 PM - 06:20 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "FF",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "KH",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "SVA",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "SVA",
+    "TimeSlotName": "ST 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "USN",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "USN",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MGT251",
+    "ShortName": "TBA",
+    "TimeSlotName": "ST 04:50 PM - 06:20 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "SAM",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "SNS",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "SNS",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "ASIFSAMI",
+    "TimeSlotName": "SW 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "ASIFSAMI",
+    "TimeSlotName": "T 10:10 AM - 11:40 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "ASIFSAMI",
+    "TimeSlotName": "R 10:10 AM - 11:40 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "AHNAF",
+    "TimeSlotName": "MR 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "AHNAF",
+    "TimeSlotName": "M 10:10 AM - 11:40 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MGT337",
+    "ShortName": "AHNAF",
+    "TimeSlotName": "R 10:10 AM - 11:40 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MGT421",
+    "ShortName": "TBA",
+    "TimeSlotName": "SR 04:50 PM - 06:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MGT480",
+    "ShortName": "JU",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MGT480",
+    "ShortName": "JU",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MGT480",
+    "ShortName": "FF",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MGT480",
+    "ShortName": "FF",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MGT480",
+    "ShortName": "OF",
+    "TimeSlotName": "ST 03:10 PM - 04:40 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "MARN",
+    "TimeSlotName": "M 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "MARN",
+    "TimeSlotName": "W 10:10 AM - 01:10 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "BHE",
+    "TimeSlotName": "W 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "BHE",
+    "TimeSlotName": "M 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "BHE",
+    "TimeSlotName": "R 01:30 PM - 03:00 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "BHE",
+    "TimeSlotName": "T 01:30 PM - 03:00 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "W 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "M 11:50 AM - 01:20 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "S 11:50 AM - 01:20 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "T 11:50 AM - 01:20 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "T 10:10 AM - 11:40 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MIS101",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 10:10 AM - 11:40 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "ASM",
+    "TimeSlotName": "TR 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MMRN",
+    "TimeSlotName": "R 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MMRN",
+    "TimeSlotName": "M 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MARN",
+    "TimeSlotName": "R 03:10 PM - 04:40 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MARN",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MARN",
+    "TimeSlotName": "M 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MARN",
+    "TimeSlotName": "W 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "BHE",
+    "TimeSlotName": "T 11:50 AM - 01:20 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "BHE",
+    "TimeSlotName": "S 11:50 AM - 01:20 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "R 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MIS305",
+    "ShortName": "MUNIRA",
+    "TimeSlotName": "T 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MIS401",
+    "ShortName": "MMRN",
+    "TimeSlotName": "S 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS401",
+    "ShortName": "MMRN",
+    "TimeSlotName": "T 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS402",
+    "ShortName": "ASM",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS403",
+    "ShortName": "BHE",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS404",
+    "ShortName": "MMRN",
+    "TimeSlotName": "MR 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS406",
+    "ShortName": "MARN",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MIS415",
+    "ShortName": "ASM",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "MFF",
+    "TimeSlotName": "TR 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "MAH",
+    "TimeSlotName": "T 04:50 PM - 06:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "MAH",
+    "TimeSlotName": "R 04:50 PM - 06:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "MHZ",
+    "TimeSlotName": "SW 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "RZ",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "SNS",
+    "TimeSlotName": "MR 10:10 AM - 11:40 AM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "DMAF",
+    "TimeSlotName": "MW 08:30 AM - 10:00 AM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "FZK",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "MISA",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "TR 04:50 PM - 06:20 PM",
+    "SectionName": 9
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "DMAF",
+    "TimeSlotName": "TR 08:30 AM - 10:00 AM",
+    "SectionName": 11
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "SR 08:30 AM - 10:00 AM",
+    "SectionName": 12
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 08:30 AM - 10:00 AM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "MKT101",
+    "ShortName": "TBA",
+    "TimeSlotName": "W 08:30 AM - 10:00 AM",
+    "SectionName": 13
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "RZ",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "DMAF",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "FZK",
+    "TimeSlotName": "S 01:30 PM - 03:00 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "FZK",
+    "TimeSlotName": "W 01:30 PM - 03:00 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "MISA",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 4
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "NSN",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 5
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "NSN",
+    "TimeSlotName": "TR 03:10 PM - 04:40 PM",
+    "SectionName": 6
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "MW 04:50 PM - 06:20 PM",
+    "SectionName": 7
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "S 10:10 AM - 11:40 AM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "MKT201",
+    "ShortName": "TBA",
+    "TimeSlotName": "R 10:10 AM - 11:40 AM",
+    "SectionName": 8
+  },
+  {
+    "CourseCode": "MKT401",
+    "ShortName": "SAM",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT401",
+    "ShortName": "MHZ",
+    "TimeSlotName": "MW 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT402",
+    "ShortName": "MAH",
+    "TimeSlotName": "TR 01:30 PM - 03:00 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT404",
+    "ShortName": "FZK",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT408",
+    "ShortName": "RZ",
+    "TimeSlotName": "TR 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT410",
+    "ShortName": "SAT",
+    "TimeSlotName": "MW 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT410",
+    "ShortName": "MFF",
+    "TimeSlotName": "ST 11:50 AM - 01:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT410",
+    "ShortName": "MFF",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 3
+  },
+  {
+    "CourseCode": "MKT412",
+    "ShortName": "SAT",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT414",
+    "ShortName": "MFF",
+    "TimeSlotName": "SW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT414",
+    "ShortName": "DMAN",
+    "TimeSlotName": "SW 04:50 PM - 06:20 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT416",
+    "ShortName": "MAH",
+    "TimeSlotName": "MW 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT416",
+    "ShortName": "MHZ",
+    "TimeSlotName": "ST 01:30 PM - 03:00 PM",
+    "SectionName": 2
+  },
+  {
+    "CourseCode": "MKT418",
+    "ShortName": "MAH",
+    "TimeSlotName": "MW 11:50 AM - 01:20 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT430",
+    "ShortName": "SAT",
+    "TimeSlotName": "ST 03:10 PM - 04:40 PM",
+    "SectionName": 1
+  },
+  {
+    "CourseCode": "MKT440",
+    "ShortName": "DMAF",
+    "TimeSlotName": "ST 10:10 AM - 11:40 AM",
+    "SectionName": 1
+  }
+]
