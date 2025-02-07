@@ -4,7 +4,7 @@
   "version": "2.1.0",
   "type": "module",
   "scripts": {
-    "build": "npm lint && tsc && vite build",
+    "build": "pnpm lint && tsc && vite build",
     "dev": "vite",
     "lint": "prettier --check src index.html && eslint",
     "preview": "vite preview"
